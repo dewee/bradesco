@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DBDN - Lelis - mob: 11 985 456 109</string>
+    <string name="title">Trend List</string>
+    <string name="email">E-mail</string>
+    <string name="mob">Mobile</string>
+    <string name="skype">Skype</string>
+    <string name="cv">Meu CV</string>
+    <string name="cvpath">http://www.dewee.com.br/resume/CVLelisTMF-2013-MOBILE.pdf</string>
+</resources>

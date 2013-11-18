@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bradesco_darkgray">#4D4E53</color>
+    <color name="bradesco_lightgray">#EAEAEA</color>
+    <color name="bradesco_red">#CC092F</color>
+    <color name="bradesco_white">#FFFFFF</color>
+</resources>
